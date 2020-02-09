@@ -1,0 +1,24 @@
+List<Agent> agents = new List<Agent>()
+        {
+        new Agent {ID="0001",Name="维娜",Gender="女",Profession="先锋"},
+        new Agent {ID="0002",Name="陨星",Gender="女",Profession="狙击"},
+        new Agent {ID="0003",Name="白金",Gender="女",Profession="狙击"},
+        new Agent {ID="0004",Name="赫拉格",Gender="男",Profession="近卫"},
+        new Agent {ID="0005",Name="送葬人",Gender="男",Profession="狙击"},
+        new Agent {ID="0005",Name="炎客",Gender="男",Profession="近卫"},
+        new Agent {ID="0006",Name="凯尔希",Gender="女",Profession="医疗"},
+        new Agent {ID="0007",Name="塞雷娅",Gender="女",Profession="重装"},
+        new Agent {ID="0008",Name="艾雅法拉",Gender="女",Profession="术士"},
+        new Agent {ID="0009",Name="伊芙利特",Gender="女",Profession="术士"},
+        new Agent {ID="0010",Name="闪灵",Gender="女",Profession="医疗"},
+        new Agent {ID="0011",Name="初雪",Gender="女",Profession="辅助"},
+        new Agent {ID="0012",Name="真理",Gender="女",Profession="辅助"},
+        new Agent {ID="0013",Name="红",Gender="女",Profession="特种"},
+        new Agent {ID="0014",Name="崖心",Gender="女",Profession="特种"},
+        new Agent {ID="0015",Name="雷蛇",Gender="女",Profession="重装"},
+        new Agent {ID="0016",Name="德克萨斯",Gender="女",Profession="先锋"},
+        new Agent {ID="0017",Name="斯卡蒂",Gender="女",Profession="近卫"},
+        new Agent {ID="0018",Name="陈",Gender="女",Profession="近卫"},
+        new Agent {ID="0019",Name="能天使",Gender="女",Profession="狙击"},
+        new Agent {ID="0020",Name="黑",Gender="女",Profession="狙击"}
+        };
